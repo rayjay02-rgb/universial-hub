@@ -1,7 +1,7 @@
---==================================================
+--===================================================
 -- FSU ULTRA // NEXUS EDITION v4
 -- CLEAN GUI EDITION
---==================================================
+--===================================================
 
 local Players = game:GetService("Players")
 local UIS = game:GetService("UserInputService")
